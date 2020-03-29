@@ -1,11 +1,16 @@
 {
-  "name": "x-fran/g-trends",
+  "name": "sansebi/g-trends",
   "type": "library",
   "description": "Google Trends API for PHP",
   "authors": [
     {
       "name": "Francisc Tar",
       "email": "francisc.tar@gmail.com",
+      "role": "Developer"
+    },
+    {
+      "name": "Sebastian Ko",
+      "email": "basti.qonrat@gmail.com",
       "role": "Developer"
     }
   ],
